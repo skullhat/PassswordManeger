@@ -3,7 +3,7 @@
 This project started as a personal challenge to test my skills after learning the basics of C and C++. The goal was to create a basic program related to cybersecurity to assess my abilities. With guidance from ChatGPT, I embarked on this journey to push my coding boundaries and explore the realm of cybersecurity.
 
 ## Project Overview
-The Cybersecurity Challenge Project is designed to be a simple yet effective program that demonstrates fundamental concepts related to cybersecurity. It serves as a practical exercise to:
+The Passsword Maneger Project is designed to be a simple yet effective program that demonstrates fundamental concepts related to cybersecurity. It serves as a practical exercise to:
 
 - Apply C and C++ programming knowledge.
 - Explore cybersecurity-related functionalities.
